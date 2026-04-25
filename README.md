@@ -1,5 +1,3 @@
-Viewed adv-10-unit-icc-geometry.html:1-378
-
 針對 **`adv-10-unit-icc-geometry` (ICC 幾何學)** 單元，這是機器人運動學中最核心的理論單元。它將學員的思維從「憑感覺轉向」提升到「幾何精確控制」，利用 **ICC (即時旋轉中心)** 的數學模型，精確預測車體在平面上的每一公分位移。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
